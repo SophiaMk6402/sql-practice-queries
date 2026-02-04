@@ -18,11 +18,22 @@ real-world database analysis.
 - Indexing & performance analysis
 - Data analytics using real-world databases
 
-## 🗃 Databases Used
-- Zomato
-- Airline
-- BikeStore
-- Employee
+## 🗃 Databases Used (MySQL)
+
+All the following databases are implemented and queried using **MySQL**:
+
+- **Zomato Database**  
+  Used for practicing SQL queries related to food delivery platforms, including restaurants, orders, customers, and ratings.
+
+- **Airline Database**  
+  Focuses on flight schedules, bookings, passengers, airports, and seat availability.
+
+- **BikeStore Database**  
+  Used for understanding sales, products, customers, staffs, orders, and revenue analysis.
+
+- **Employee Database**  
+  Covers employee details, departments, salaries, job roles, and organizational hierarchy.
+
 
 ## 🎯 Goal
 To build strong SQL and data analytics skills for Data Analyst, QA, and Backend roles.
