@@ -5,3 +5,11 @@
 SELECT restaurant_id, AVG(rating) as average_rating
 FROM Reviews
 GROUP BY restaurant_id
+
+-- Table: Person
+-- Column Name : id , email 
+-- Write a solution to report all the duplicate emails. Note that it's guaranteed that the email field is not NULL.
+
+SELECT email FROM Person 
+group by email
+having count(email) > 1 
